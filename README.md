@@ -41,7 +41,19 @@ You can view the layout of the project in the <a href="https://www.figma.com/fil
 
 ## 🔖 User Stories
 
-You can view the user stories in the [EN](https://github.com/gisabernardess/venture/wiki/specification) version.
+1. As a user I want to know the 3 most popular github users - the ones created in the last
+month and having the most followers;
+2. As a user I want to know the 3 most active users - the ones created last month and
+having the most repositories;
+3. As a user I want to see the name, image, id, total followers and the most starred project
+of each github user;
+4. As a user I want to be redirected to the user's github page when I click on "Open
+Profile"·
+I
+5. As a user I want to see the most starred repositories created last year, sorted by total
+stars;
+6. As a user I want to see the name, description and total stars of each repository.
+7. As a user I want to search users and repositories for a specific term
 
 ## ℹ️ How To Use
 
